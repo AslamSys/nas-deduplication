@@ -2,7 +2,7 @@
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 NAS (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/nas/README.md)** → **nas-deduplication**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 NAS (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/nas%20-%20(raspberry-pi-5-8gb)/README.md)** → **nas-deduplication**
 
 ### Containers Relacionados (nas)
 - [nas-brain](https://github.com/AslamSys/nas-brain)
@@ -65,7 +65,7 @@ deduplication:
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 NAS (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/nas/README.md)** → **nas-deduplication**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 NAS (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/nas%20-%20(raspberry-pi-5-8gb)/README.md)** → **nas-deduplication**
 
 ### Containers Relacionados (nas)
 - [nas-brain](https://github.com/AslamSys/nas-brain)
@@ -87,7 +87,7 @@ rmlint /storage/hot /storage/cold \
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 NAS (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/nas/README.md)** → **nas-deduplication**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 NAS (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/nas%20-%20(raspberry-pi-5-8gb)/README.md)** → **nas-deduplication**
 
 ### Containers Relacionados (nas)
 - [nas-brain](https://github.com/AslamSys/nas-brain)
@@ -105,7 +105,7 @@ cat dedup.json | jq '.[] | select(.type=="duplicate_file")'
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 NAS (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/nas/README.md)** → **nas-deduplication**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 NAS (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/nas%20-%20(raspberry-pi-5-8gb)/README.md)** → **nas-deduplication**
 
 ### Containers Relacionados (nas)
 - [nas-brain](https://github.com/AslamSys/nas-brain)
@@ -124,7 +124,7 @@ cat dedup.json | jq '.[] | select(.type=="duplicate_file")'
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 NAS (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/nas/README.md)** → **nas-deduplication**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 NAS (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/nas%20-%20(raspberry-pi-5-8gb)/README.md)** → **nas-deduplication**
 
 ### Containers Relacionados (nas)
 - [nas-brain](https://github.com/AslamSys/nas-brain)
